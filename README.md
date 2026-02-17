@@ -122,5 +122,5 @@ Used DAX to:
 
 ## 👨‍💻 Author
 
-**Aaditya Dalal**  
+**Mohit Sharma**  
 Data Analyst | SQL | Power BI | Alteryx | Python
